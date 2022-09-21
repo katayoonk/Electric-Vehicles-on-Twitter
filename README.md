@@ -79,7 +79,7 @@ All of your projects will comprise of a written technical report and a presentat
 - Your presentation slideshow rendered as a .pdf file.
 **NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
 
-For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. **Presentations shoud be about 5 minutes.**  Time tends to fly when presenting, and doing a dry run for a friend or family member is a great way to practice.
+For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. **Presentations shoud be about 5-7 minutes.**  Time tends to fly when presenting, and doing a dry run for a friend or family member is a great way to practice.
 
 ---
 
@@ -101,28 +101,28 @@ Here's a link on [how to give a good lightning talk](https://www.semrush.com/blo
 
 ### Submission
 
-**Materials must be submitted on Friday, June 3.**
+**Materials must be submitted on Friday, September 30th by 10am.**
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis (renamed to describe your project)
 - Data files
-- Presentation slides
+- Presentation slides (as a PDF)
 - Any other necessary files (images, etc.)
 
-**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom](https://classroom.google.com/u/1/c/MzYyMzc5NTA5OTgy) assignment.**
+**Please fork the project, download or clone to your local machine, and submit a link in the Google Classroom assignment.**
 
 ---
 
 ### Presentation Structure
 
-**You must be ready to present your findings by the start of class on June 3.**
+**You must be ready to present your findings by the start of class on September 30.**
 
-- **Must be within time limit - not more than 5 minutes.**
+- **Aim for your presentation to be between 5 - 7 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
 - Consider the audience. Assume you are presenting to a non-technical audience (executives with the College Board, school administrators, admissions counselors, State officials, etc.).
-- Start with the **data science problem**.
+- Start with your **problem statement**.
 - Use visuals that are appropriately scaled and interpretable.
 - Talk about your procedure/methodology (high level, **CODE IS ALWAYS INAPPROPRIATE FOR A NON-TECHNICAL AUDIENCE**).
 - Talk about your primary findings.
