@@ -70,3 +70,10 @@ The new format for the SAT was released in March 2016. Since then, levels of par
 |C|0.14|0.24|0.25|
 |E|0.71|0.75|0.83|
 |W|0.35|0.38|0.38|
+
+## Results
+- The change on SAT rules on 2016 was successful since we see increase in participation rates nationally.
+- As we saw, lowest SAT participation rate is for central states and the highest is for eastern states.
+- Overall, all three different locations had increase in the SAT participation rates.
+- Overall, all three different locations had decrease in the ACT participation rates.
+- After the change, SAT participation rate has increased and ACT participation rate has decreased.
